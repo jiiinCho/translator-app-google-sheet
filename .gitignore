@@ -1,0 +1,8 @@
+/node_modules
+
+# secret 
+credentials.json
+.env
+
+# IDE setup
+/.vscode
